@@ -52,8 +52,8 @@ const App = () => {
               />
               <Text style={styles.sectionTitle}>Step One</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
+                Edited <Text style={styles.highlight}>App.js</Text> to change the
+                screen and then coming back to see edits.
               </Text>
             </View>
             <View style={styles.sectionContainer}>
